@@ -1,0 +1,10 @@
+{
+  "name": "angular-extensions-demo",
+  "description": "The demo node app used for the angular extensions project",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "3.4.8"
+  },
+  "author": "keithtun"
+}
