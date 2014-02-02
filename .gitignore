@@ -1,8 +1,17 @@
+lib-cov
+lcov.info
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
 
-node_modules/.bin/express
+pids
+logs
+results
+build
+.grunt
 
-node_modules/express/.npmignore
-
-node_modules/express/.travis.yml
-
-node_modules/express/History.md
+node_modules
